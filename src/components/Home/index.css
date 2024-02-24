@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.homeContainer {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.messageContainer {
+  background-image: linear-gradient(to bottom, #2b2c49, #303150, #b5b9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 500px;
+  width: 500px;
+  border-radius: 10px;
+  border-width: 0px;
+}

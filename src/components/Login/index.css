@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.button {
+  color: #2b2c49;
+  height: 50px;
+  width: 100px;
+  background-color: #f8fafc;
+  margin: 10px;
+}
+
+.Message {
+  color: #f8fafc;
+  font-size: 25px;
+  margin: 10px;
+}
